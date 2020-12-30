@@ -24,7 +24,8 @@ public class Main {
         static int hitung(int input){
             int hasil;
 
-            hasil = (input + 2) * input;
+            //hasil = (input + 2) * input;
+            hasil = input * input;
 
             return hasil;
 
