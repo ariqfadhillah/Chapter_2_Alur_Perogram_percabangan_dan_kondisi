@@ -3,7 +3,7 @@ package com.tutorial;
 public class Main {
     public static void main(String[] args){
 
-       //latihan if
+       //latihan if sederhana
 
         int a = 0;
         int b = 90;

@@ -3,7 +3,7 @@ package com.tutorial;
 import java.util.Scanner;
 
 public class Main {
-//    membuat kalkulator sederhana
+//    membuat kalkulator sederhana sendiri
     public static void main(String[] args){
 
         float a,b,hasil;

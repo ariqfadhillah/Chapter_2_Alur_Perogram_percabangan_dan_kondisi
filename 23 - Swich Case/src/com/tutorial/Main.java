@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     // switch case ini biasanya dipakai untuk dipakai untuk menu
     //punya nilai satu dan bercabang byk
-    //ini lebih flexibel dari if
+    //ini lebih flexibel dari if yang sebelumnya
     public static void main(String[] args) {
         // ekpresinya berupa satuan(int, long, byte, short), String, atau enum
 

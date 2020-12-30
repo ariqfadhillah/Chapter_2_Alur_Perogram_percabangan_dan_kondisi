@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class For {
     public static void main(String[] args) {
-        //        program untuk menjumlahkan angka dengan rentanng
+        //        program untuk menjumlahkan angka dengan rentanng sebagai berikut
 
         int nilaiAwal, nilaiAkhir, total;
 

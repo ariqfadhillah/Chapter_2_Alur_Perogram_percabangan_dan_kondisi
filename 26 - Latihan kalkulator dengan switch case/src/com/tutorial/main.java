@@ -10,6 +10,7 @@ public class main {
         float a,b,hasil;
         String operator;
 
+        //versi berbeda dari pertemuan sebelumnya
         inputUser = new Scanner(System.in);
 
         System.out.print("nilai a = ");

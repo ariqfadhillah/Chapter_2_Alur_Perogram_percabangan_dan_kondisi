@@ -3,6 +3,7 @@ package com.tutorial;
 public class Main {
     public static void main(String[] args) {
 
+        //mendalami while untuk pertama kali
         int a = 0;
         boolean kondisi = true;
 

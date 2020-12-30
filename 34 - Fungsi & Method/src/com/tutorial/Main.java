@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         // y = (x + 2) * x
+        // latihan untuk menggunakan fungsi / method untuk pertama kalinya
 
         int x, y;
         x = 10;

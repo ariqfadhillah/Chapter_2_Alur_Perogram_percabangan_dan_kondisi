@@ -3,6 +3,7 @@ package com.tutorial;
 public class Main {
     public static void main(String[] args) {
 
+        // ta'aruf untuk pertama kali pada do while
         int a = 0;
         boolean kondisi = true;
 

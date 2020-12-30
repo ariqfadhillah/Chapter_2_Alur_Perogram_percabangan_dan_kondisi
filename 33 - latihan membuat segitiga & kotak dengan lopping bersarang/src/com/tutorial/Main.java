@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //looping bersarang
+        // looping bersarang
+        // yaitu pelajaran for didalam for
 
         for(int a = 0; a < 5; a++){
 

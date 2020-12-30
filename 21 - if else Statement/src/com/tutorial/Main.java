@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("ini adalah awal program");
 
-        // if else if statement
+        // if else if statement ye
 
         if (a == 5 ){
 

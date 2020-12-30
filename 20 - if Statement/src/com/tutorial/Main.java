@@ -14,7 +14,7 @@ public class Main {
 
         System.out.println("nilai = " + a);
 
-        // ini adalah cabangnya
+        // ini adalah cabangnya betul
 
         if (a == 5){
             System.out.println("ini adalah cabang");

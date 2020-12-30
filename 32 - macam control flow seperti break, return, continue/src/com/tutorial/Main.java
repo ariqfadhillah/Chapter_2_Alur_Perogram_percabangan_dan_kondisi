@@ -3,7 +3,8 @@ package com.tutorial;
 public class Main {
     public static void main(String[] args) {
 
-        //break, continue, dan return
+        // ta'aruf untuk pertama kalinya
+        // break, continue, dan return
 
         int a = 0;
 

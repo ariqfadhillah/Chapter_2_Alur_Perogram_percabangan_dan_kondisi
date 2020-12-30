@@ -3,7 +3,7 @@ package com.tutorial;
 public class Main {
     public static void main(String[] args){
 
-        // nested if atau if bersarang
+        // latihan nested if atau if bersarang
 
         int a = 5;
         int b = 10;

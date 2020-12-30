@@ -2,6 +2,9 @@ package com.tutorial;
 
 public class Main {
     public static void main(String[] args) {
+
+        // belajar menggunakan for loop untuk pertama kali
+
         System.out.println("ini adalah awal program");
 
         System.out.println("ini loop pertama");

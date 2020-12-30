@@ -6,7 +6,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-//        kita akan menghitung deret fibonacci ke - n
+        //kita akan menghitung deret fibonacci ke - n
+        //fibonacci adalah perulangan yang berjalan kepada angka sesebelumnya
+
         int n,f_n,f_n_1,f_n_2;
 
         Scanner inputUser = new Scanner(System.in);
